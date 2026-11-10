@@ -79,3 +79,12 @@ DerivedDataCache/*
 /MegaJamTest/Intermediate/
 /MegaJamTest/Saved/
 /MegaJamTest/*.slnx
+
+# Generated IDE files
+.idea/
+*.slnx
+
+# Local credentials
+.env
+.env.*
+!.env.example
